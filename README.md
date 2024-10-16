@@ -6,21 +6,20 @@ This repository presents a comprehensive analysis of the California Housing Pric
 ## Dataset
 The California Housing Prices dataset contains data from the 1990 California census. It includes metrics such as population, median income, median housing price, and more for each block group in California. This dataset is ideal for practicing machine learning and pattern recognition techniques.
 
-## Project Structure
-
-
-## Key Insights
-
-
 ## How to Use
-
-
-## Contributing
-
+Start from creating a dedicated environment for the project. If using conda, use
+```
+conda create --name your_env_name python=3.10
+conda activate your_env_name
+```
+When creating your environment, make sure to select your own name. Then, install dependencies using
+```
+pip install -r requirements.txt
+```
 
 ## License
-
+This work is attributed under the MIT licence.
 
 ## Acknowledgements
-- Acknowledge the source of the dataset: [Kaggle's California Housing Prices dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)&#8203;``【oaicite:0】``&#8203;.
+- Acknowledge the source of the dataset: [Kaggle's California Housing Prices dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
  
